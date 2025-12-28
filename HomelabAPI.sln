@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36811.4 d17.14
+VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "HomelabAPI", "HomelabAPI\HomelabAPI.esproj", "{03906870-E4DF-D27D-5636-32B99112BCAE}"
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Server", "Server\Server.esproj", "{BE8D07AA-AC16-0558-7E39-F74B9D8671F5}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "LinkedInJobs", "LinkedInJobs\LinkedInJobs.esproj", "{3974FA80-D519-CC13-B7D8-B958E19C9C4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,12 @@ Global
 		{BE8D07AA-AC16-0558-7E39-F74B9D8671F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE8D07AA-AC16-0558-7E39-F74B9D8671F5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BE8D07AA-AC16-0558-7E39-F74B9D8671F5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3974FA80-D519-CC13-B7D8-B958E19C9C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3974FA80-D519-CC13-B7D8-B958E19C9C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3974FA80-D519-CC13-B7D8-B958E19C9C4C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3974FA80-D519-CC13-B7D8-B958E19C9C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3974FA80-D519-CC13-B7D8-B958E19C9C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3974FA80-D519-CC13-B7D8-B958E19C9C4C}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

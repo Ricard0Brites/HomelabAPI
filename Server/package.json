@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "type": "module",
+  "imports": {
+    "#/*": "./*"
+  },
   "devDependencies": {
     "eslint": "^9.39.2"
   },
